@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **TungLT1411/TungLT1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **react, c#, java**
 
 - 📫 How to reach me **tunglt1411@gmail.com**
+- ⚡ Fun fact **Funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
